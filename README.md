@@ -12,3 +12,7 @@ This is a good example of [my code](https://gist.github.com/mfoune/7a043e888232a
 
 This is the [notebook](technical_documents.ipynb)
 
+### Images
+![image](https://github.com/mfoune/technical-discussion/assets/91289477/0dea00b6-20df-4800-bc23-a5e859b5acd8)
+
+
