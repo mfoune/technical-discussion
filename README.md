@@ -10,5 +10,5 @@ This a demo repo for sharing ideas around communication
 
 This is a good example of [my code](https://gist.github.com/mfoune/7a043e888232a67a9dd475c04456e00b)
 
-This is the [notebook]()
+This is the [notebook](technical_documents.ipynb)
 
